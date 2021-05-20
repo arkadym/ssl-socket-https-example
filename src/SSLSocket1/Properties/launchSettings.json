@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SSLSocket1": {
+      "commandName": "Project",
+      "commandLineArgs": "118.201.195.10:2778"
+    }
+  }
+}
